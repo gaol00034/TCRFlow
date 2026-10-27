@@ -1,1 +1,1 @@
-Download models from [ckpt_validation](https://drive.google.com/file/d/1b1OdMwzaUQgU9uKCV__w1Yh9NZ4mZsxb/view?usp=sharing) and [ckpt_indep](https://drive.google.com/file/d/1lkUhW-UZT3tuPj2V_7p_vDgRfP05iwS2/view?usp=sharing)
+Download models from [ckpt_validation](https://drive.google.com/file/d/1yebfFOMfL1l4lBkyfFRhladpJ1MRUlV1/view?usp=drive_link) and [ckpt_indep](https://drive.google.com/file/d/1lkUhW-UZT3tuPj2V_7p_vDgRfP05iwS2/view?usp=sharing)
